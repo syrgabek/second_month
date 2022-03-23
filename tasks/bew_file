@@ -1,0 +1,9 @@
+[A-Z][A-z]+\s[A-z][A-z][A-z][A-z][A-z|\'*]+\s
+[A-Z][A-z|\-*\s*]+\s[A-z|\ *|\'*][A-z|\s'|\ *][A-z][A-z][A-z|\'*]+\s
+[A-Z][A-z]+\s[A-z][A-z][A-z]+\s
+[A-Z][A-z|\-|\s]+\s[A-z|\' *\s][A-z][A-z|\' *\s]+\s
+[A-Z][A-z|\-|\s]+\s[A-z|\'*\s][A-z][A-z|\' *\s]+\s
+[A-Z][A-z|\-|\s]+\s[A-z|\'*\s][A-z][A-z|\'*\s]+\s+\.*
+[A-Z][A-z|\-|\s]+\s[A-z|\'*\s][A-z][A-z|\'*\s]+\s+\.*
+[A-Z][A-z]+\s[A-z][A-z]+\s
+[A-Z][A-z][A-z]+\s[A-Z][a-z|\'][A-z]+\s
